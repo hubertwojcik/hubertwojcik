@@ -1,5 +1,3 @@
-# 💫 About Me:
-Expierenced React Native developer, currently learning cloud computing
 <h1 align="center">Hey there 👋</h1>
 
 ###
