@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello, I'm Hubert from Poland<br><br>- 🔭 I work as a React Native developer<br>- 📚 I'm currently studying Computer Science at PJATK<br>- ⚡ In my free time, I'm learning tools to transition to a DevOps/Cloud engineer</p>
 
 ###
 
