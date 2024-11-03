@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently transitioning to DevOps/Cloud 
+Expierenced React Native developer, currently learning cloud computing
 
 
 # 💻 Tech Stack:
