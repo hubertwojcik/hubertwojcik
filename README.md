@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, I'm Hubert from Poland<br><br>- 🔭 I work as a React Native developer<br>- 📚 I'm currently studying Computer Science at PJATK<br>- ⚡ In my free time, I'm learning tools to transition to a DevOps/Cloud engineer</p>
+<p align="left">Hello, I'm Hubert from Poland<br><br>- 🔭 I work as a React Native developer<br>- 📚 I'm currently studying Computer Science at PJATK<br>- ⚡ In my free time, I'm learning Cloud/AI</p>
 
 ###
 
